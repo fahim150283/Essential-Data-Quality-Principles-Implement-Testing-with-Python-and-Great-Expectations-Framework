@@ -1,0 +1,301 @@
+id,name,height,country
+1,Everest,8975,India
+2,Lhotse,7637,China/Nepal
+3,K2,7221,India/Nepal
+4,Nanga Parbat,8185,China/Nepal
+5,Annapurna,7052,Pakistan
+6,K2,8902,China
+7,Nanga Parbat,7638,Nepal
+8,Nanga Parbat,8179,India/Nepal
+9,Nanga Parbat,8387,Pakistan
+10,Gasherbrum,8859,China/Nepal
+11,Everest,8962,Pakistan
+12,Makalu,7768,India
+13,Manaslu,7812,Pakistan
+14,Lhotse,8928,Nepal
+15,Manaslu,8464,Nepal
+16,Annapurna,7406,Pakistan
+17,Manaslu,7155,India
+18,Everest,8212,India/Nepal
+19,Nanga Parbat,8414,China/Nepal
+20,Annapurna,8701,India/Nepal
+21,Dhaulagiri,8284,India
+22,Shishapangma,7497,China
+23,Manaslu,7208,Nepal
+24,K2,8427,China
+25,Lhotse,8582,China/Nepal
+26,K2,7617,India
+27,K2,8741,China/Nepal
+28,Gasherbrum,8401,China
+29,Manaslu,8229,India
+30,Manaslu,8649,India/Nepal
+31,Dhaulagiri,7247,India/Nepal
+32,K2,8630,China
+33,Makalu,8159,China
+34,Lhotse,8602,Nepal
+35,Annapurna,7084,India/Nepal
+36,Nanga Parbat,7711,Nepal
+37,Manaslu,8091,China
+38,Everest,7877,China/Nepal
+39,Everest,8354,India
+40,Annapurna,7758,India/Nepal
+41,Lhotse,7141,India
+42,Shishapangma,8036,Nepal
+43,Manaslu,8326,Nepal
+44,Gasherbrum,7698,Pakistan
+45,Gasherbrum,7025,China/Nepal
+46,Makalu,8739,India/Nepal
+47,Nanga Parbat,7860,India/Nepal
+48,Shishapangma,8684,Nepal
+49,Shishapangma,8003,China/Nepal
+50,Lhotse,7216,India
+51,Makalu,7887,India/Nepal
+52,K2,8967,Nepal
+53,K2,7741,Pakistan
+54,Makalu,8301,China
+55,Annapurna,8825,India/Nepal
+56,Annapurna,8697,China/Nepal
+57,Gasherbrum,7941,China
+58,Nanga Parbat,8448,India
+59,Everest,7313,Pakistan
+60,K2,7891,India/Nepal
+61,Nanga Parbat,7360,China
+62,Manaslu,8502,China/Nepal
+63,Annapurna,8068,China
+64,Everest,8977,Nepal
+65,Dhaulagiri,8332,China
+66,Makalu,7553,India
+67,K2,8261,China
+68,Dhaulagiri,8655,India
+69,Nanga Parbat,8883,India
+70,Makalu,8102,China/Nepal
+71,Makalu,8586,Nepal
+72,Nanga Parbat,7990,Pakistan
+73,Shishapangma,7952,India
+74,Everest,7892,China
+75,Manaslu,8691,China/Nepal
+76,Dhaulagiri,8497,China
+77,Lhotse,8213,India
+78,K2,7549,China/Nepal
+79,Gasherbrum,7660,China
+80,Nanga Parbat,8744,India/Nepal
+81,Makalu,7502,Nepal
+82,Nanga Parbat,8701,China
+83,Nanga Parbat,8914,Nepal
+84,Annapurna,7177,India
+85,Nanga Parbat,7571,India
+86,Lhotse,8805,India
+87,Annapurna,7923,Nepal
+88,Manaslu,7499,China
+89,Nanga Parbat,8536,India/Nepal
+90,Lhotse,7951,Nepal
+91,Manaslu,8167,China/Nepal
+92,Nanga Parbat,8249,India/Nepal
+93,Lhotse,8368,China
+94,,7776,China
+95,Everest,7688,Nepal
+96,Everest,7058,Pakistan
+97,K2,8012,India/Nepal
+98,Dhaulagiri,8742,India
+99,Lhotse,7665,India/Nepal
+100,Shishapangma,7372,China
+101,Lhotse,7998,China/Nepal
+102,Annapurna,7434,China
+103,K2,7726,Nepal
+104,Manaslu,8633,Pakistan
+105,Gasherbrum,7529,India
+106,Everest,7697,India/Nepal
+107,K2,7572,Pakistan
+108,Manaslu,8802,India
+109,K2,8220,China
+110,Lhotse,8436,China/Nepal
+111,Makalu,8802,China
+112,Dhaulagiri,7565,Nepal
+113,K2,8138,Nepal
+114,Nanga Parbat,7020,China/Nepal
+115,Nanga Parbat,8058,India/Nepal
+116,K2,8941,Pakistan
+117,Lhotse,7391,China/Nepal
+118,Gasherbrum,7175,Pakistan
+119,Annapurna,7494,India
+120,Makalu,8474,India/Nepal
+121,Annapurna,7832,Nepal
+122,Gasherbrum,8000,India/Nepal
+123,Nanga Parbat,8137,China
+124,Gasherbrum,8552,Nepal
+125,Dhaulagiri,7492,Pakistan
+126,Everest,8414,Nepal
+127,Nanga Parbat,7975,China
+128,Manaslu,8322,Nepal
+129,Shishapangma,8457,China/Nepal
+130,Nanga Parbat,8005,Pakistan
+131,Nanga Parbat,7917,China
+132,Makalu,8623,China/Nepal
+133,K2,7035,India
+134,Lhotse,7190,India/Nepal
+135,Shishapangma,7602,China/Nepal
+136,Shishapangma,7453,India
+137,K2,7828,China
+138,Shishapangma,8416,China
+139,Manaslu,7498,China
+140,Lhotse,7627,Pakistan
+141,Manaslu,8359,China
+142,Annapurna,8191,India/Nepal
+143,Dhaulagiri,7755,Pakistan
+144,K2,7969,China
+145,,8133,Pakistan
+146,Shishapangma,8087,India/Nepal
+147,K2,7704,India/Nepal
+148,Nanga Parbat,7871,China/Nepal
+149,Manaslu,8527,Pakistan
+150,Lhotse,8127,Nepal
+151,Makalu,7677,India
+152,Nanga Parbat,7720,China
+153,Shishapangma,8439,India
+154,Nanga Parbat,7929,India/Nepal
+155,,7554,India
+156,Dhaulagiri,7627,Nepal
+157,K2,7514,India
+158,Makalu,7472,China/Nepal
+159,K2,7247,India
+160,Makalu,8477,India/Nepal
+161,Shishapangma,7394,India/Nepal
+162,Manaslu,7646,China/Nepal
+163,Dhaulagiri,7244,China
+164,Dhaulagiri,8521,Pakistan
+165,Everest,8097,China
+166,Annapurna,8947,India/Nepal
+167,Everest,8560,China
+168,,8413,India
+169,Dhaulagiri,7379,India
+170,Gasherbrum,7392,India/Nepal
+171,Annapurna,7443,India/Nepal
+172,K2,8512,China
+173,Makalu,7991,China
+174,Manaslu,7566,India
+175,Makalu,8483,Pakistan
+176,Everest,8207,China/Nepal
+177,Everest,9000,Pakistan
+178,Lhotse,8556,India/Nepal
+179,K2,8074,China
+180,Nanga Parbat,8222,Pakistan
+181,Annapurna,7579,China
+182,Makalu,7205,Nepal
+183,Lhotse,8705,India
+184,Makalu,7397,China/Nepal
+185,Everest,7606,China
+186,Manaslu,7465,China/Nepal
+187,Annapurna,7739,China
+188,Lhotse,7367,China
+189,K2,7619,China/Nepal
+190,Everest,7028,China/Nepal
+191,Lhotse,8450,Pakistan
+192,Gasherbrum,8093,China
+193,Lhotse,7259,Nepal
+194,Lhotse,7561,Pakistan
+195,Dhaulagiri,7093,India/Nepal
+196,Dhaulagiri,8995,India/Nepal
+197,Nanga Parbat,7111,India
+198,Nanga Parbat,8133,Nepal
+199,Everest,7598,China
+200,Dhaulagiri,8428,Nepal
+201,Dhaulagiri,8933,India/Nepal
+202,Shishapangma,7258,China
+203,Manaslu,8306,Nepal
+204,Nanga Parbat,8778,China/Nepal
+205,Shishapangma,8541,Pakistan
+206,Everest,8005,China
+207,Everest,7210,China/Nepal
+208,Nanga Parbat,8787,Pakistan
+209,Lhotse,7025,Nepal
+210,K2,8175,China
+211,Manaslu,7582,India
+212,K2,7961,India
+213,Dhaulagiri,7980,India/Nepal
+214,Annapurna,7902,China/Nepal
+215,Dhaulagiri,7697,China
+216,Lhotse,7377,China/Nepal
+217,Annapurna,8977,Nepal
+218,Makalu,7105,India
+219,Dhaulagiri,7517,China/Nepal
+220,Everest,8927,India/Nepal
+221,Lhotse,8764,China
+222,Shishapangma,7978,India
+223,Manaslu,7233,China/Nepal
+224,Gasherbrum,8683,China/Nepal
+225,Nanga Parbat,7133,China
+226,Makalu,7820,India/Nepal
+227,Dhaulagiri,8007,Nepal
+228,Shishapangma,7151,India/Nepal
+229,Lhotse,8181,Nepal
+230,Lhotse,8289,Pakistan
+231,Makalu,8405,China/Nepal
+232,Lhotse,7109,China/Nepal
+233,Shishapangma,7310,India
+234,K2,7305,Pakistan
+235,Shishapangma,8661,China/Nepal
+236,Annapurna,8152,Nepal
+237,Lhotse,8943,China
+238,Everest,7622,Nepal
+239,K2,7174,China/Nepal
+240,Lhotse,7508,China/Nepal
+241,Nanga Parbat,7242,Nepal
+242,Nanga Parbat,8142,China
+243,K2,8565,Pakistan
+244,Gasherbrum,7852,China/Nepal
+245,Nanga Parbat,8241,India
+246,Gasherbrum,8220,Nepal
+247,Nanga Parbat,8619,Nepal
+248,Nanga Parbat,8266,India
+249,Makalu,7462,Nepal
+250,Gasherbrum,8588,India
+251,Lhotse,8070,India
+252,Dhaulagiri,7779,India
+253,Nanga Parbat,7922,China
+254,Lhotse,8860,Pakistan
+255,K2,7906,Pakistan
+256,Lhotse,7608,India/Nepal
+257,Manaslu,8761,China
+258,K2,8205,India/Nepal
+259,Lhotse,7878,China/Nepal
+260,Makalu,7625,Pakistan
+261,K2,8164,Pakistan
+262,Manaslu,8271,Pakistan
+263,Annapurna,7123,Nepal
+264,Annapurna,8248,India/Nepal
+265,Shishapangma,8966,China
+266,Everest,8515,India/Nepal
+267,Shishapangma,7203,China/Nepal
+268,Everest,8940,Pakistan
+269,Dhaulagiri,8562,China
+270,Annapurna,7425,India/Nepal
+271,Nanga Parbat,8281,Pakistan
+272,Lhotse,7432,Pakistan
+273,Dhaulagiri,7541,China
+274,Everest,8352,China/Nepal
+275,Annapurna,7166,India
+276,Gasherbrum,7321,China
+277,Shishapangma,7491,India
+278,Annapurna,7355,China/Nepal
+279,Everest,8130,Nepal
+280,Annapurna,7153,China
+281,Gasherbrum,7320,India
+282,Dhaulagiri,7005,China/Nepal
+283,Lhotse,7836,India/Nepal
+284,Manaslu,7922,Pakistan
+285,Annapurna,8411,Nepal
+286,Annapurna,8216,China
+287,K2,7962,India
+288,Nanga Parbat,7596,India/Nepal
+289,Manaslu,7066,India
+290,K2,7474,China/Nepal
+291,Everest,7590,China
+292,Lhotse,8447,China/Nepal
+293,Everest,7579,India
+294,Lhotse,8439,China
+295,K2,8760,India
+296,Lhotse,7929,Pakistan
+297,Dhaulagiri,7145,China
+298,Makalu,8407,China
+299,K2,7478,Nepal
+300,Makalu,8892,Pakistan
