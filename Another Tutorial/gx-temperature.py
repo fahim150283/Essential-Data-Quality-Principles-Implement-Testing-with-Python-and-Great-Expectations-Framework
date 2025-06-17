@@ -3,12 +3,10 @@
 
 
 
-
 # prerequisites
 # 1. Python 3.8+
 # 2. pip install great_expectations
 # 3. pip install pandas
-
 
 
 
@@ -17,6 +15,8 @@ import pandas as pd
 from datetime import datetime, timedelta
 from great_expectations.core.batch import RuntimeBatchRequest
 
+
+print()
 # Load and clean the dataset
 df = pd.read_csv("C:\\Users\\TechTeam-08\\PycharmProjects\\Essential Data Quality Principles, Implement Testing with Python and Great Expectations Framework\\temperature.csv")
 df["Date"] = pd.to_datetime(df["Date"], errors='coerce')
@@ -89,6 +89,9 @@ expectation_results["validity"].append(
 expectation_results["validity"].append(
     validator.expect_column_values_to_match_regex("City", regex="^[A-Za-z\\s]+$")
 )
+expectation_results["validity"].append(
+    validator.expect_column_distinct_values_to_be_in_set(column="city", value_set=["Mumbai", "Delhi"])
+)
 
 # Consistency Expectations
 expectation_results["consistency"].append(
@@ -125,3 +128,13 @@ passed_all = sum(exp.success for exp in all_expectations)
 overall_percent = (passed_all / total_all) * 100 if total_all else 0
 
 print(f"\n📊 Overall: {passed_all}/{total_all} expectations passed ({overall_percent:.2f}%)")
+
+
+#
+# expectation_suite_name = "temperature_data_suite"
+# expectation_suite_ref = gx.ExpectationSuite(name=expectation_suite_name)
+# expectation_suite = context.suites.add(expectation_suite_ref)
+#
+# #Adding Expectation to ExpectationSuite
+# expectation_suite.add_expectation()
+# expectation_suite.add_expectation()
