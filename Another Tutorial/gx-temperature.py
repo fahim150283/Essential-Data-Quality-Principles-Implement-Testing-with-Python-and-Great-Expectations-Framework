@@ -2,12 +2,10 @@
 # https://www.youtube.com/watch?v=F3yvXqzkDhU&list=PLYDwWPRvXB8_XOcrGlYLtmFEZywOMnGSS&ab_channel=JoanMedia
 
 
-
 # prerequisites
 # 1. Python 3.8+
 # 2. pip install great_expectations
 # 3. pip install pandas
-
 
 
 import great_expectations as gx
@@ -15,10 +13,10 @@ import pandas as pd
 from datetime import datetime, timedelta
 from great_expectations.core.batch import RuntimeBatchRequest
 
-
 print()
 # Load and clean the dataset
-df = pd.read_csv("C:\\Users\\TechTeam-08\\PycharmProjects\\Essential Data Quality Principles, Implement Testing with Python and Great Expectations Framework\\temperature.csv")
+df = pd.read_csv(
+    "C:\\Users\\TechTeam-08\\PycharmProjects\\Essential Data Quality Principles, Implement Testing with Python and Great Expectations Framework\\temperature.csv")
 df["Date"] = pd.to_datetime(df["Date"], errors='coerce')
 
 # 👉 Print total number of rows
@@ -39,7 +37,7 @@ datasource_config = {
         }
     }
 }
-context.add_or_update_datasource(**datasource_config)
+context.data_sources.add_or_update(datasource_config)
 
 # Create batch request
 batch_request = RuntimeBatchRequest(
@@ -128,7 +126,6 @@ passed_all = sum(exp.success for exp in all_expectations)
 overall_percent = (passed_all / total_all) * 100 if total_all else 0
 
 print(f"\n📊 Overall: {passed_all}/{total_all} expectations passed ({overall_percent:.2f}%)")
-
 
 #
 # expectation_suite_name = "temperature_data_suite"
