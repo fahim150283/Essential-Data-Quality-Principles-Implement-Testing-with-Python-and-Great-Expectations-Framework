@@ -1,7 +1,7 @@
 # this file will read json file and print the needed data
 import json
 
-with open('../Email Credentials.json') as f:
+with open('Email Credentials.json') as f:
     data = json.load(f)
 
 mailserveraddr = data['email']['mailServer']
